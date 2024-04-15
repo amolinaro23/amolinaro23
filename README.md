@@ -4,7 +4,7 @@
 
  - [Active Directory Home Lab](https://github.com/amolinaro23/ActiveDirectoryLab/blob/main/README.md)
  - [SQL Injection Attack](https://github.com/amolinaro23/SQL-Injection-Attack)
- - [Live Azure Sentinel SIEM] (https://github.com/amolinaro23/Azure-Sentinel-SIEM-/blob/main/README.md)
+ - [Live Azure Sentinel SIEM](https://github.com/amolinaro23/Azure-Sentinel-SIEM-/blob/main/README.md)
    
 <h2>'📃' Certifications:</h2>
 
