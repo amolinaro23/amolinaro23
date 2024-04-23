@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
  - [Active Directory Home Lab](https://github.com/amolinaro23/ActiveDirectoryLab/blob/main/README.md)
- - [SQL Injection Attack](https://github.com/amolinaro23/SQL-Injection-Attack)
  - [Live Azure Sentinel SIEM](https://github.com/amolinaro23/Azure-Sentinel-SIEM-/blob/main/README.md)
  - [Nessus Vulnerability Management](https://github.com/amolinaro23/Nessus-Vulnerability-Management)
+ - [SQL Injection Attack](https://github.com/amolinaro23/SQL-Injection-Attack)
    
 <h2>'📃' Certifications:</h2>
 
