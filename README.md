@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+ - [Analyzing Network Traffic with Wireshark](https://github.com/amolinaro23/Wireshark/blob/main/README.md)
  - [Active Directory Home Lab](https://github.com/amolinaro23/ActiveDirectoryLab/blob/main/README.md)
  - [Live Azure Sentinel SIEM](https://github.com/amolinaro23/Azure-Sentinel-SIEM-/blob/main/README.md)
  - [Nessus Vulnerability Management](https://github.com/amolinaro23/Nessus-Vulnerability-Management)
