@@ -10,7 +10,7 @@
 <h2>'📃' Certifications:</h2>
 
 - CompTIA Security+
-- ISC2-Certified in Cybersecurity (CC)
+- ISC²-Certified in Cybersecurity (CC)
 - Microsoft-SC900
 
 
@@ -21,7 +21,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: https://www.linkedin.com/in/austinrmolinaro
+- [linkedin]: https://www.linkedin.com/in/austinrmolinaro
 
 <!--
 
